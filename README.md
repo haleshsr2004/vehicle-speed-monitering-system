@@ -1,1 +1,1 @@
-# vehicle-speed-monitering-system
+# vehicle-speed-monitoring-system
